@@ -5,7 +5,7 @@ I have compiled my keymappings to make sense on windows so that many common (not
 Here are the results.. enjoy!
 
 First Install Sharp Keys (google it) and use the configuration below..
-![Sharp Keys](https://raw.githubusercontent.com/34code/parity-mac/master/sharp-keys.png)
+![Sharp Keys](https://raw.githubusercontent.com/34code/parity-mac/master/sharp-keys.PNG)
 
 Now install Autohotkey and start the MacKeyboard.ahk file in this repository on startup (google it)
 
