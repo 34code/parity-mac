@@ -9,6 +9,4 @@ First Install Sharp Keys (google it) and use the configuration below..
 
 Now install Autohotkey and start the MacKeyboard.ahk file in this repository on startup (google it)
 
-Done!
-
-Enjoy some sanity on your windows 10 machine :)
+Done
